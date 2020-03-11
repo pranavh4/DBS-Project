@@ -1,0 +1,11 @@
+.viewHeading {
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+
+th,
+td {
+  width: 50%;
+  border: 1px solid black;
+}
